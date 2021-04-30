@@ -1,2 +1,2 @@
 # Enjina
-A Simple 3D Game Engine using OpenG
+A Simple 3D Game Engine using OpenGL
